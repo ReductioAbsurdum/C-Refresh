@@ -19,6 +19,21 @@ int main() {
   return(0);
 }
 
+//consider char pointers to a string:
+
+/*
+char* str = "jimmy eats a lot!";
+
+printf("%p\n", &str);
+printf("%p\n", &str[0]);
+printf("%p\n", &str[1]);
+printf("%p\n", &str[2]);
+printf("%p\n", &str[3]);
+printf("%s\n", str);
+*/
+
+
+
 //Single pointer example:
 
 /*
